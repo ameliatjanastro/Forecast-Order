@@ -1,0 +1,610 @@
+Vendor ID;Primary Vendor Name;Ideal RL submission;Inbound Day;Freq Delivery?;Total Lead Time (+int);Frequency;JI;Terms;One Bill Payment;Remarks;Inbound Days
+210;(PURECO )INDOGO CORPORATION CV;Tue;Tue;;8;0.5;14;;Pembayaran PO sebelumnya harus sudah settled;CBD;Monday, Tuesday
+420;Abe Food;Mon;Fri;;12;1;7;;Outstanding payment (discrepancies Invoice x GRN);CBD;
+4180;ASTRO INDOKARYA SEMESTA;Thu;Thu;;12;1;7;;None;COD;Monday, Tuesday, Wednesday, Thursday, Friday
+25;Ayu Beauty House;Tue;Sat;;11;1;7;;None;CBD;
+268;BAT (British America Tobacco);Mon;Fri;;10;1;7;;Bad Performance;7 DAYS;
+5314;Beorganik;Tue;Sat;;11;1;7;;None;14 DAYS;
+209;BUMI TANI NUSANTARA;Tue;Wed;;9;1;7;;Outstanding payment (discrepancies Invoice x GRN);7 Days;
+5838;CAZTORE;Mon;Thu;;11;1;7;;None;14 DAYS;
+4335;CV ABAD DUA SATU MAKMUR;Mon;Thu;;11;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+395;CV Aneka Semesta Nutrisindo;Tue;Sat;;12;1;7;;None;7 DAYS;
+5638;CV Anugerah Mitra Restu;Wed;Thu;;9;1;7;;None;30 DAYS;Tuesday, Wednesday, Thursday, Friday
+4962;CV ARGANA PANGAN INDONESIA;Tue;Sat;;11;1;7;;None;CBD;
+5315;CV Bima Tek Indonesia;Mon;Fri;;9;1;7;;None;CBD;
+4745;CV BURSA SELARAS BERSAMA;Thu;Wed;;11;1;7;;None;7 DAYS;
+6061;CV FENUCAPS INDONESIA;Mon;Fri;;11;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+140;CV Fermanto Bevfoods;Mon;Tue;;9;1;7;;None;CBD;
+5636;CV GUELE KOSMETIK INDONESIA;Wed;Thu;;9;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5179;CV INDOKOPI MAKMUR SENTOSA;Mon;Fri;;9;1;7;;None;30 DAYS;
+3856;CV JOE TOKO HEWAN;Tue;Sat;;12;0.5;14;;None;CBD;
+706;CV Kreasi Pangan Global;Mon;Mon;;8;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5002;CV Matso Brother;Tue;Sat;;9;0.25;28;;Outstanding payment (discrepancies Invoice x GRN);14 DAYS;
+5599;CV NOERA BY REISHA;Tue;Mon;;7;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5271;CV Oscilla Indonesia;Mon;Fri;;10;1;7;;None;CBD;
+5880;CV OTOBI INDONESIA;Mon;Fri;;9;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5236;CV Platinum Food Indonesia;Wed;Wed;;12;0.25;28;;None;CBD;Monday, Tuesday, Wednesday, Thursday
+5639;CV Rukun;Wed;Thu;;9;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5601;CV Sana Morioka Industries;Mon;Fri;;9;1;7;;None;3 DAYS;
+5180;CV SUMBER PANGAN SEHAT;Mon;Fri;;10;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+4297;CV TIGA JAYA;Mon;Mon;;8;1;7;;Pembayaran PO sebelumnya harus sudah settled;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+4480;CV UTAMA MAKMUR ABADI;Tue;Sat;;9;1;7;;None;CBD;
+5456;CV. Indosnack Makmur Abadi;Mon;Fri;;11;1;7;;None;CBD;
+5109;CV. Karya Mixmix Jaya;Mon;Fri;;11;1;7;;None;CBD;
+5196;CV. LIBRA FOOD SERVICE;Thu;Thu;;12;1;7;;Pembayaran PO sebelumnya harus sudah settled;CBD;
+5243;CV. MAJU PRATAMA ABADI;Thu;Thu;;12;0.5;14;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+163;Darlie / PT Asia Paramita Indah;Thu;Wed;;11;0.5;14;;Outstanding payment (discrepancies Invoice x GRN);COD;
+1039;DAVID ROY INDONESIA;Mon;Fri;;11;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+270;Dima Group;Thu;Wed;;11;1;7;;None;14 DAYS;
+99;Dua Kelinci;Tue;Wed;;9;1;7;;None;14 DAYS;
+179;ELTEAN LUHUR KENCANA;Mon;Fri;;11;0.25;28;;Pembayaran PO sebelumnya harus sudah settled;CBD;
+149;Enseval Blackmores;Mon;Tue;;9;1;7;;None;14 Days;Monday, Tuesday, Wednesday, Thursday, Friday
+5895;Escobark;Mon;Fri;;7;1;7;;None;30 DAYS;
+4924;Fitri Yanih;Mon;Fri;;12;1;7;;None;DP 50 % then 50% COD;
+285;FKS Mart;Tue;Sat;;9;1;7;;None;14 Days;
+287;Garuda Food;Tue;Wed;;9;1;7;TRUE;None;14 DAYS;
+4900;GASOL PERTANIAN ORGANIK;Tue;Tue;;12;1;7;;Outstanding payment (discrepancies Invoice x GRN);CBD;
+295;Grandville;Mon;Wed;;10;1;7;;None;7 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+67;Greenara;Thu;Thu;;12;1;7;;None;CBD;
+78;Healthy Choice;Thu;Wed;;11;1;7;;None;COD;
+355;Healthy Farm;Wed;Tue;;11;1;7;;None;7 DAYS;
+52;Healthy Grocery;Mon;Fri;;9;1;7;;None;3 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+408;Hi Cook Official Store;Mon;Fri;;12;1;7;;None;14 DAYS;
+5131;Jaya Muda Sinergi Distributor;Thu;Wed;;11;1;7;;None;COD;
+117;Kacang Kapri Tari Bali;Wed;Wed;;12;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+292;Kaifa Food;Mon;Tue;;9;1;7;;None;14 DAYS;
+351;Kalbe (PT Enseval Putera Megatrading);Mon;Fri;;11;1;7;;None;14 DAYS;
+5226;Kaleido Kosmetik Internasional;Tue;Sat;;8;1;7;;None;14 DAYS;
+1906;KARSA INTI TUJU AKSARA;Wed;Wed;;12;1;7;TRUE;None;30 DAYS;
+47;Kaze Beras;Wed;Wed;;12;1;7;;None;14 DAYS;
+1481;KIN Dog Food Jakarta Selatan;Tue;Sat;;9;1;7;;None;14 Days;
+5312;LEAF ORGANIC;Mon;Fri;;9;1;7;;None;3 DAYS;
+648;Leo - Hyokuna;Wed;Wed;;12;1;7;;Pembayaran PO sebelumnya harus sudah settled;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+5292;LUCKYBITE INDONESIA;Tue;Wed;;9;1;7;;None;7 DAYS;Monday, Tuesday, Wednesday, Thursday
+413;Mama's Choice;Tue;Sat;;12;0.25;28;;Outstanding payment (discrepancies Invoice x GRN);CBD;
+148;Mandjur;Tue;Wed;;9;1;7;;Credit limit;14 DAYS;
+546;MBS global Niaga;Tue;Wed;;9;1;7;;Outstanding payment (discrepancies Invoice x GRN);COD;
+84;Melts;Mon;Fri;;11;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+252;Meyo Land;Mon;Mon;;8;1;7;;None;7 Days;
+93;Mondelez;Thu;Wed;;11;1;7;;None;30 Days;
+82;Mondemart;Mon;Fri;;11;1;7;;None;30 DAYS;
+5253;Namaste Organic;Thu;Thu;;12;1;7;;None;CBD;
+5206;NATAS NITIS NETES;Wed;Wed;;12;0.25;28;;None;CBD;
+4681;NIAGA MITRA ABADI;Wed;Wed;;12;0.25;28;;None;CBD;Monday, Tuesday, Wednesday, Thursday
+388;Nion Nion ( Bawang Goreng);Wed;Wed;;12;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+388;Nion Nion ( Bawang Goreng);Wed;Wed;;12;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5837;Normal Estate;Mon;Fri;;9;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+282;Nutrifood (Latest);Mon;Fri;;11;1;7;;None;;
+460;Oatbarn;Mon;Fri;;11;1;7;;None;COD;
+122;Otsuka;Thu;Wed;;11;1;7;;None;14 DAYS;
+4040;Pempek Madam Ng;Mon;Thu;;11;1;7;;None;14 DAYS;
+593;PERSEROAN TERBATAS LUCKY MOM INDONESIA;Thu;Mon;;5;1;7;TRUE;Pembayaran PO sebelumnya harus sudah settled;30 DAYS;
+5244;Pinelab Hygiene Indonesia;Mon;Fri;;9;0.25;28;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5293;PSLOVE FEMHEALTH INDO;Wed;Thu;;9;1;7;;Outstanding payment (discrepancies Invoice x GRN);3 DAYS;
+5310;PT . PRESTISE INDOJAYA;Mon;Fri;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);CBD;
+530;PT Abadi Niaga Prima;Wed;Wed;;12;1;7;;None;CBD;
+283;PT Ace Distrindo Sejahtera;Mon;Fri;;10;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+958;PT ACMIC ELEKTRONIK INDONESIA;Wed;Wed;;12;1;7;;Bad Performance;CBD;
+303;PT Adna Sentral Niaga;Tue;Sat;;12;1;7;;None;CBD;
+5523;PT AEVUMLAB HERBA ASIA;Tue;Mon;;7;1;7;;None;30 DAYS;
+218;PT Ajinomoto Sales Indonesia;Thu;Thu;;12;1;7;;None;CBD;
+4246;PT AKSELERASI SUMBER BERKAH;Mon;Tue;;9;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+368;PT Aladdin Sarana Indonesia;Tue;Sat;;10;1;7;TRUE;Credit limit;14 DAYS;
+591;PT ALAMII NATURA SEJAHTERA;Mon;Fri;;9;1;7;;Outstanding payment (discrepancies Invoice x GRN);7 DAYS;
+5905;PT Altaf Digdaya Indonesia;Mon;Fri;;7;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+1016;PT AMIDIS TIRTA MULIA;Tue;Sat;;11;1;7;;None;30 DAYS;
+227;PT Anak Mas Indah;Tue;Mon;;7;1;7;;None;14 DAYS;
+5195;PT ANEKA DASUIB JAYA LIPPO;Tue;Tue;;8;1;7;;None;CBD;
+235;PT Aneka Sakti Bakti;Wed;Wed;;12;1;7;;Bad Performance;CBD;
+43;PT Anggana Catur Prima;Mon;Mon;;8;1;7;;None;14 Days;
+796;PT Anugerah Pharmindo Lestari (APL);Mon;Fri;;11;1;7;;None;14 DAYS;
+5297;PT ANUGERAH WAJAH PRIA;Mon;Fri;;9;1;7;;Outstanding payment (discrepancies Invoice x GRN);CBD;
+154;PT Anugrah Argon Medika;Tue;Wed;;9;0.5;14;;None;14 DAYS;
+220;PT Anugrah Indo Mandiri;Wed;Tue;;11;1;7;;None;14 DAYS;
+396;PT Anugrah Inovasi Makmur Indonesia;Tue;Tue;;8;1;7;;None;30 DAYS;
+4998;PT Anugrah Inti Makmur Indonesia;Mon;Fri;;10;1;7;;None;30 DAYS;
+5138;PT ANUGRAH JAYA USAHA;Mon;Fri;;11;1;7;;None;CBD;
+4723;PT ARISTA LATINDO;Tue;Sat;;9;0.5;14;;None;30 DAYS;
+1376;PT ARKSTARINDO ARTHA MAKMUR;Tue;Wed;;9;0.5;14;;None;30 Days;
+892;PT ARNOTTS INDONESIA;Mon;Fri;;11;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+38;PT Aroma Bintang Asia;Wed;Wed;;12;1;7;;Outstanding payment (discrepancies Invoice x GRN);CBD;
+259;PT Artaboga Cemerlang;Thu;Wed;;11;1;7;;None;14 DAYS;
+412;PT Artha Karya Pasifik;Tue;Sat;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);7 DAYS;
+164;PT Arum Nirwana Global;Wed;Wed;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+88;PT Arum Nirwana Global (Laverland);Thu;Thu;;12;1;7;;None;CBD;
+4715;PT ARUMAN ABADI;Tue;Sat;;9;0.5;14;;None;14 DAYS;
+4558;PT ARWANA SUKSES MAKMUR;Mon;Fri;;9;0.5;14;;None;30 DAYS;
+248;PT Asia Capital Indonesia;Mon;Thu;;11;1;7;;Bad Performance;30 DAYS;
+217;PT Asia Prima Konjac;Thu;Thu;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+5073;PT Asia Utama Indonesia;Tue;Sat;;12;1;7;;Outstanding payment (discrepancies Invoice x GRN);CBD;
+4753;PT Astha Dian Manunggal;Mon;Thu;;11;0.5;14;;Pembayaran PO sebelumnya harus sudah settled;30 DAYS;
+161;PT Astha Nadiarta Abadi (Kutus-kutus);Mon;Fri;;11;1;7;TRUE;Pembayaran PO sebelumnya harus sudah settled;CBD;
+4992;PT AVO INNOVATION TECHNOLOGY;Mon;Fri;;9;1;7;;None;7 DAYS;
+1759;PT Bahtera Cipta Raga Prima;Tue;Sat;;8;1;7;;None;30 DAYS;
+5036;PT BAKED COFFEE BEANS (Consignment);Thu;Wed;;11;1;7;;None;14 DAYS;
+258;PT Bali Maya Permai Food Canning Industry;Wed;Tue;;11;1;7;;None;7 DAYS;
+5725;PT Balina Agung Perkasa;Tue;Thu;;10;1;7;;None;14 DAYS;
+54;PT Barco;Tue;Tue;;8;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5517;PT BASIS INOVASI GLOBAL;Tue;Sat;;9;1;7;;None;14 DAYS;
+893;PT Belitang Panen Raya;Mon;Tue, Thu;Tuesday, Thursday;4;2;4;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+143;PT Benteng Persada Multindo;Tue;Sat;;11;1;7;;None;COD;
+215;PT Berill Jaya Sejahtera;Mon;Fri;;10;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+354;PT Berkat Emaku Indonesia;Mon;Fri;;9;1;7;;None;14 Days;Monday, Tuesday, Wednesday, Thursday, Friday
+5335;PT Berkat Kreasi Gemilang;Wed;Thu;;9;0.5;14;;None;14 DAYS;
+4796;PT BERKAT REZEKI UTAMA;Tue;Tue;;8;1;7;;None;7 DAYS;
+26;PT Bina San Prima (PULO GADUNG);Tue;Sat;;10;1;7;TRUE;Outstanding payment (discrepancies Invoice x GRN);30 DAYS;
+208;PT Bina San Prima (TANGERANG);Mon;Fri;;11;1;7;;None;3 DAYS;
+4640;PT BINTANG INTER GLOBAL;Tue;Sat;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);14 DAYS;
+5374;PT BIONIC NATURA;Tue;Sat;;12;1;7;;None;CBD;
+321;PT Borwita Indah;Mon;Mon, Thu;Monday, Thursday;8;2;4;TRUE;None;14 DAYS;
+39;PT Brani Maju Berkarya;Mon;Tue;;9;1;7;TRUE;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5585;PT Buana Fajar Inti Kreasi;Mon;Fri;;10;0.25;28;TRUE;None;21 DAYS;
+1778;PT Budiraya Tataprima;Mon;Fri;;9;1;7;;None;DP 50%;Monday, Tuesday, Wednesday, Thursday, Friday
+1588;PT Bukit Inti Makmur Abadi;Mon;Fri;;11;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+5640;PT Bumi Puspa Cemerlang;Thu;Thu;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+1126;PT Bungasari Flour Mills Indonesia;Mon;Fri;;11;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+137;PT BWI Bahtera Wiraniaga Internusa;Mon;Wed;;10;1;7;;None;14 Days;
+286;PT Cahaya Maju Bersama;Mon;Mon;;8;1;7;;None;COD;Monday, Tuesday, Wednesday, Thursday, Friday
+4683;PT CAHAYA POLES MULIA;Tue;Sat;;9;1;7;;None;30 DAYS;
+4846;PT CATEL PRATAMA LESTARI;Tue;Sat;;8;1;7;;None;7 DAYS;
+34;PT Catur Anugrah Sentosa;Mon;Fri;;11;1;7;;None;30 DAYS;
+131;PT Catur Sentosa Anugerah;Mon;Tue, Thu;Tuesday, Thursday;6;2;4;;None;30 DAYS;
+4224;PT CENTRAL PERTIWI BAHARI;Tue;Sat;;9;1;7;;Pembayaran PO sebelumnya harus sudah settled;7 DAYS;
+661;PT Charmindo Mitra Sempana;Tue;Sat;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);COD;Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
+5894;PT CIPTA ATAS NUSANTARA;Mon;Fri;;9;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+106;PT Citra Putra Tatapratama;Tue;Sat;;11;1;7;;None;14 Days;
+5133;PT CJ Food Lestari;Mon;Fri;;11;1;7;;None;CBD;
+4730;PT CLEYA PARAS KREASINDO;Mon;Thu;;11;1;7;;None;14 DAYS;
+579;PT Clinisindo Putra Perkasa;Tue;Wed;;9;1;7;;None;14 DAYS;
+5736;PT Cobra Dental Indonesia;Mon;Fri;;9;1;7;;Outstanding payment (discrepancies Invoice x GRN);30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
+975;PT COCA COLA DISTRIBUTION INDONESIA;Mon;Wed, Fri;Wednesday, Friday;8;2;4;;None;7 DAYS;
+4885;PT COMPAWNION JADI BERKAT;Mon;Thu;;7;1;7;;None;14 DAYS;
+1780;PT CROWN SPORTS;Tue;Tue;;12;1;7;;Bad Performance;CBD;
+225;PT Daesang Agung Indonesia;Tue;Sat;;10;1;7;;None;21 DAYS;
+5275;PT DARJEELING SEMBRANI AROMA;Mon;Fri;;11;1;7;;None;CBD;
+466;PT Daya Muda Agung;Wed;Wed;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+1628;PT Deli Group Indonesia;Mon;Fri;;12;1;7;;None;COD;
+1073;PT Dew Cantik Indonesia;Tue;Sat;;11;1;7;;None;Consignment;
+5249;PT Dewa Tunggal Abadi;Mon;Fri;;11;1;7;;None;CBD;
+127;PT Digital Distribusi Indonesia (DDI);Wed;Wed;;12;1;7;TRUE;Outstanding payment (discrepancies Invoice x GRN);30 DAYS;
+442;PT Digital Niaga Indonesia;Tue;Sat;;11;1;7;;None;30 Days;
+5227;PT DINAMIKA INTEGRA INDONESIA;Mon;Fri;;9;1;7;;None;30 DAYS;
+298;PT DINAMIS ARTHA SUKSES;Tue;Tue;;8;1;7;;None;14 DAYS;
+30;PT Distribusi Surya Kencana;Tue;Sat;;11;1;7;;None;14 DAYS;
+4639;PT DISTRIVERSA BUANAMAS;Tue;Sat;;9;1;7;;None;30 DAYS;
+5274;PT DUA ANUGRAH CITA RASA;Mon;Fri;;9;1;7;;None;CBD;
+27;PT Dua Berlian;Thu;Wed;;11;1;7;;None;30 DAYS;
+4761;PT DUTA MARITIM JAYA;Tue;Wed;;9;0.5;14;;None;30 DAYS;
+1074;PT Duta Pesona Jaya;Tue;Sat;;8;1;7;;None;14 Days;
+5199;PT EAKINDO MITRA SASTARI;Mon;Fri;;11;1;7;;None;CBD;
+135;PT East Indo Fair Trading;Mon;Fri;;11;1;7;;None;CBD;
+398;PT Eco Living;Mon;Fri;;11;1;7;;None;CBD;
+262;PT Ega Multi Cipta;Tue;Tue;;12;1;7;;None;CBD;
+5655;PT ELEKTRIK LANGIT FANTASI;Mon;Thu;;11;0.5;14;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+4768;PT ELINA PRIMA SEJAHTERA (CARESO);Mon;Thu;;11;1;7;;None;14 DAYS;
+740;PT ELODA MITRA;Wed;Wed;;12;1;7;;Pembayaran PO sebelumnya harus sudah settled;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+4798;PT ELSHADDAI TIGA SEKAWAN;Mon;Fri;;9;1;7;;None;14 DAYS;
+3949;PT Enpe Jaya;Wed;Tue;;11;1;7;;None;14 DAYS;
+5003;PT Enzym Bioteknologi Internusa;Tue;Thu;;10;1;7;;Outstanding payment (discrepancies Invoice x GRN);30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+81;PT Era Ventura Indonesia;Tue;Sat;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);14 DAYS;
+5214;PT Erha Medicals;Wed;Wed;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+125;PT ETERNALPLUS TIRTA ALKALINDO;Mon;Thu;;11;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+265;PT Eternalplus Tirta Alkalindo (Wateru);Thu;Thu;;12;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+1416;PT EVO NUSA BERSAUDARA;Mon;Tue;;9;0.5;14;;None;30 Days;
+5592;PT EZE CANTIKA INDONESIA;Mon;Fri;;10;0.25;28;;None;14 DAYS;
+336;PT Faber Castell International Indonesia;Mon;Wed;;10;1;7;;Bad Performance;30 DAYS;
+3979;PT FAJAR HARAPAN LESTARI;Tue;Tue;;12;1;7;;Bad Performance;CBD;
+5633;PT Fast Beauty Indonesia;Wed;Thu;;9;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+269;PT Fastrata Buana;Tue;Sat;;12;1;7;TRUE;None;14 DAYS;
+111;PT Fastrata Buana (kapal api);Tue;Sat;;11;1;7;;None;7 DAYS;
+5518;PT FCL INTERNASIONAL INDONESIA;Tue;Sat;;12;1;7;;None;14 DAYS;
+712;PT Filia Sukses Mandiri;Tue;Mon;;7;1;7;;None;14 DAYS;
+1879;PT Float Oat Indonesia;Mon;Fri;;9;1;7;;Credit limit;21 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+226;PT Fokus Ritel Indoprima;Tue;Tue;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+4035;PT Formula Jelita Internasional;Tue;Sat;;8;1;7;;None;DP 50%;
+588;PT Frisian Flag Indonesia;Mon;Wed;;10;1;7;TRUE;None;21 DAYS;
+4867;PT GARLAND CANTIK INDONESIA;Mon;Mon;;8;1;7;;None;7 DAYS;
+365;PT Garuda Mas Perkasa;Thu;Wed;;11;1;7;;Bad Performance;14 DAYS;
+4615;PT GLOBAL DIGITAL RITELINDO;Mon;Fri;;11;1;7;;None;21 DAYS;Monday, Tuesday
+5908;PT GLOBAL JAYA ULTIMA;Mon;Fri;;9;1;7;;None;14 DAYS;
+73;PT Globe MZM;Thu;Wed;;11;1;7;;None;21 DAYS;
+5913;PT Gloria Origita Cosmetics;Mon;Fri;;12;1;7;;None;30 DAYS;
+600;PT Glorienta;Mon;Fri;;9;1;7;;None;CBD;
+29;PT GODREJ CONSUMER PRODUCTS INDONESIA;Tue;Tue;;8;1;7;TRUE;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5076;PT GOOD SALE TECH;Tue;Sat;;8;1;7;;None;30 DAYS;
+5644;PT GRACIA DISTRIBUSI INDONESIA;Wed;Thu;;9;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+898;PT Granova Prima Lestari;Mon;Mon;;8;1;7;;None;14 Days;Monday, Tuesday, Wednesday, Thursday, Friday
+15;PT Greenfields Dairy Indonesia;Tue;Tue;Tuesday;8;1;7;TRUE;Outstanding payment (discrepancies Invoice x GRN);30 DAYS;Tuesday
+5892;PT Griff Prima Abadi;Mon;Fri;;9;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+1541;PT Groupe SEB Indonesia MSD;Mon;Fri;;11;1;7;;None;30 DAYS;
+4286;PT GRUVADO WISATA GRUP;Mon;Fri;;11;1;7;;None;Consignment;
+5000;PT GudangAda Global indo;Mon;Fri;;9;1;7;;None;CBD;
+4413;PT GUNA ELEKTRIK MAKMUR;Mon;Fri;;11;1;7;;Bad Performance;CBD;
+23;PT Guna Layan Kuasa;Thu;Wed;;11;1;7;;Pembayaran PO sebelumnya harus sudah settled;7 DAYS;
+5248;PT Hadir Mengharumkan Nusantara;Mon;Fri;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);CBD;
+1747;PT HANJAYA MANDALA SAMPOERNA TBK. Tbk.;Mon;Mon, Wed;Monday, Wednesday;6;2;4;TRUE;Has to be delivered on same month of PO creation;CBD;
+1207;PT Harapan Makmur Jayaperkasa;Mon;Fri;;11;1;7;TRUE;None;CBD;
+6066;PT HARAPAN NIAGA MAKMUR;Mon;Fri;;11;0.5;14;;None;;
+166;PT Harvindo Perkasa;Mon;Fri;;11;1;7;;Bad Performance;CBD;
+4334;PT HOKA KARYA MANDIRI;Mon;Fri;;11;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+1221;PT Hoki Distribusi Niaga;Tue;Tue;;8;1;7;;None;14 DAYS;
+1655;PT Hypefast Karya Nusantara;Tue;Tue;;12;0.25;28;;None;CBD;Monday, Tuesday, Wednesday, Thursday
+5748;PT Ibu Anak Sukses;Mon;Fri;;9;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+1103;PT Ichiya Indonesia;Tue;Sat;;9;0.5;14;;None;14 Days;
+471;PT Inbisco Nagatama Semesta;Mon;Fri;;9;1;7;TRUE;Bad Performance;14 DAYS;
+1331;PT INBISCO NIAGATAMA SEMESTA (Non Inventory);Tue;Sat;;9;1;7;;None;14 DAYS;
+244;PT Indo Belanja Mandiri;Wed;Tue;;11;1;7;;Bad Performance;14 DAYS;
+289;PT Indo Sarijaya Lestari;Tue;Tue;;8;1;7;;None;30 DAYS;
+525;PT Indoguna Utama;Thu;Wed;;11;1;7;;Pembayaran PO sebelumnya harus sudah settled;14 DAYS;
+13;PT Indomarco;Mon;Tue, Thu, Sat;Tuesday, Thursday, Saturday;7;3;3;;None;14 DAYS;
+257;PT Indomaru Lestari;Mon;Mon;;8;1;7;;None;30 DAYS;
+5201;PT Indonesia Bersih Bersama;Mon;Fri;;11;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+5505;PT INDOSARI NIAGA NUSANTARA [SELAI];Tue;Mon;;7;1;7;;None;7 DAYS;
+5281;PT INSPIRASI WANITA INDONESIA;Mon;Fri;;11;1;7;;None;CBD;
+5367;PT INTAN KENKOMAYO INDONESIA;Mon;Fri;;10;1;7;;None;CBD;
+4682;PT INTERBUANA MANDIRI;Mon;Fri;;9;1;7;;None;14 DAYS;
+224;PT Interfood Sukses Jasindo;Thu;Wed;;11;1;7;;Pembayaran PO sebelumnya harus sudah settled;14 DAYS;
+364;PT International Chemical Industry;Thu;Wed;;11;1;7;;Bad Performance;30 DAYS;
+5578;PT INTI BERKAT JAYA;Thu;Thu;;12;0.5;14;;Pembayaran PO sebelumnya harus sudah settled;CBD;
+5879;PT Inti Muda Andalan;Mon;Fri;;9;1;7;;None;14 DAYS;
+5254;PT Inventaris Prima Indonesia;Mon;Fri;;11;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+380;PT ISUTO SUKSES JAYA;Mon;Fri;;12;1;7;;Bad Performance;14 DAYS;
+44;PT ITMI (Lifepack);Mon;Fri;;11;1;7;;None;COD;
+5489;PT Jalur Mandiri Utama;Mon;Fri;;9;1;7;;Outstanding payment (discrepancies Invoice x GRN);30 DAYS;
+422;PT Javas Karya Tripta;Mon;Fri;;11;1;7;;None;14 DAYS;
+5630;PT JAVICA NATURA INDONESIA;Thu;Thu;;12;0.25;28;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+22;PT Jenindo Prakarsa;Tue;Sat;;11;1;7;;None;14 DAYS;Monday, Saturday
+5146;PT KAMPUNG KEARIFAN INDONESIA;Mon;Fri;;9;1;7;;None;CBD;
+308;PT Kanmo Multi Gemilang;Mon;Fri;;9;1;7;;Outstanding payment (discrepancies Invoice x GRN);30 DAYS;
+429;PT Kao Indonesia;Mon;Fri;;10;1;7;TRUE;None;14 DAYS;
+437;PT KAO Indonesia Distribution;Mon;Fri;;10;1;7;TRUE;None;14 DAYS;
+70;PT Kara Santan Pertama;Tue;Mon;;7;1;7;;None;21 Days;
+71;PT Karacoco Nucifera Pratama;Mon;Mon;;8;1;7;;None;14 Days;
+119;PT Kartikawira Adisukses;Wed;Wed;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+5921;PT KARUNIA ARTHA RAHAYU;Mon;Fri;;8;1;7;;None;30 DAYS;
+223;PT Karunia Sukses Gemilang;Mon;Fri;;11;1;7;;None;30 DAYS;
+5535;PT KARYA MAHARENDRA INNOVATION;Mon;Fri;;9;1;7;;None;30 DAYS;
+5181;PT KATAMATA;Mon;Fri;;9;1;7;;None;7 DAYS;
+5634;PT KEVA COSMETICS INTERNATIONAL;Mon;Fri;;9;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+277;PT Kifa Citra Sejati;Mon;Fri;;12;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+19;PT Kobe Boga Utama;Tue;Wed;;9;1;7;;None;30 DAYS;
+5915;PT Koleksi Jaya;Mon;Fri;;8;1;7;;None;30 DAYS;
+61;PT Korinus;Mon;Fri;;9;1;7;;None;30 Days;
+4917;PT Kreasi Kebanggaan Bangsa;Tue;Sat;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);14 DAYS;
+1296;PT Kreasi Prima Printing;Mon;Fri;;9;1;7;;Pembayaran PO sebelumnya harus sudah settled;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5320;PT KREASI PRODUK SEHAT;Mon;Fri;;10;1;7;;None;CBD;
+5591;PT Kreasi Semangat Muda;Tue;Sat;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);14 DAYS;
+5326;PT KTD Indonesia;Mon;Fri;;9;0.25;28;;None;14 DAYS;
+349;PT Kurniamitra Duta Sentosa;Mon;Fri;;9;1;7;;None;14 DAYS;
+1369;PT Ladang Sehat Indonesia;Mon;Fri;;9;1;7;;None;COD;
+4411;PT LAIF UNTUK INDONESIA;Tue;Wed;;9;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+1597;PT Lautan Mas Pertiwi;Mon;Mon;;8;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5235;PT LEAN LAB INDONESIA;Mon;Fri;;11;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday
+4;PT Leon Boga Sentosa;Mon;Fri;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);CBD;
+90;PT Libra Lestari Industrial;Mon;Fri;;11;1;7;;None;7 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+90;PT Libra Lestari Industrial (jollytime);Tue;Sat;;11;1;7;;None;14 DAYS;
+521;PT Lingkar Organik Indonesia;Thu;Mon;;5;1;7;;None;3 DAYS;
+243;PT Lyra Akreluk;Mon;Fri;;11;1;7;;Bad Performance;CBD;
+109;PT Macro Prima Pangan Utama (MACROSENTRA NIAGABOGA PT);Mon;Fri;;11;1;7;;Pembayaran PO sebelumnya harus sudah settled;CBD;
+766;PT MACROSENTRA NIAGABOGA;Mon;Wed;;10;1;7;TRUE;Outstanding payment (discrepancies Invoice x GRN);14 DAYS;
+5149;PT MADURA UTAMA MANDIRI;Mon;Fri;;9;1;7;;None;CBD;
+4602;PT MAJU KIRANA GEMILANG;Mon;Fri;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);14 DAYS;
+537;PT Makmur Inti Barokah;Tue;Tue;;12;1;7;;Bad Performance;CBD;
+4932;PT MALINDO SUKSES;Tue;Sat;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);30 DAYS;
+1080;PT Marco Sekawan;Mon;Fri;;9;1;7;;None;14 Days;
+246;PT Marga Bharata;Wed;Wed;;12;1;7;;Bad Performance;14 DAYS;
+155;PT Marga Nusantara;Tue;Sat;;9;0.5;14;;None;14 Days;
+141;PT Masuya Graha Trikencana;Mon;Fri;;10;1;7;TRUE;Credit limit;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+397;PT Mataram Sindoro Mulia;Mon;Fri;;11;1;7;;None;CBD;
+1529;PT MAYA MUNCAR;Mon;Tue;;9;1;7;;None;30 DAYS;
+96;PT Mayora Indah Tbk (Energen,Torabika);Mon;Fri;;9;1;7;;None;CBD;
+4862;PT MEDIKA NIAGA SOLUSINDO;Tue;Wed;;9;0.5;14;;None;CBD;
+5513;PT MEGA GUNA SHARI;Mon;Mon;;8;1;7;;None;30 DAYS;
+4503;PT MEGA INTRA SEJAHTERA;Thu;Wed;;11;1;7;;None;CBD;
+5746;PT Megah Cantika Indonesia;Mon;Fri;;9;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+370;PT Megatama Gemilang Sakti;Mon;Fri;;9;1;7;;None;14 DAYS;
+156;PT Mensa Bina Sukses;Tue;Wed;;9;1;7;;Credit limit;7 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5487;PT Mermel Ayu Kosmetindo;Tue;Mon;;7;1;7;;None;14 DAYS;
+37;PT Metta Sinar Sejahtera;Mon;Wed;;10;1;7;;None;21 Days;
+5309;PT Mganic Naturindo Cemerlang;Mon;Fri;;9;0.5;14;;None;CBD;
+404;PT Mita Sentral Abadi;Tue;Sat;;12;1;7;;None;CBD;
+345;PT MITRA BLESSINDO PERKASA;Mon;Fri;;9;1;7;;None;COD;
+3990;PT Mitra Deca Sentosa;Tue;Sat;;8;1;7;;None;30 DAYS;
+381;PT Mitra Niaga Nusatama;Wed;Wed;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+51;PT Mitra Sarana Purnama;Mon;Mon;;8;1;7;;None;30 Days;
+5203;PT MOELL INDONESIA SUKSES;Tue;Mon;;7;0.5;14;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday
+5061;PT MULTI FORINDO GRACIA;Wed;Thu;;9;1;7;;None;COD;Monday, Tuesday, Wednesday, Thursday, Friday
+5016;PT MULTI RASA JAYATAMA (Consignment);Thu;Wed;;11;0.25;28;;None;14 DAYS;
+4410;PT NATURAL NUTRINDO;Mon;Fri;;9;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5098;PT Nino Nana Indonesia;Mon;Fri;;9;0.25;28;;None;7 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+667;PT Niramas Utama;Mon;Mon;;8;1;7;;None;14 Days;Monday, Tuesday, Wednesday, Thursday, Friday
+9;PT Nirwana Lestari;Tue;Mon;;7;1;7;;None;14 DAYS;
+63;PT Nissin Foods Indonesia;Wed;Wed;;12;1;7;;None;CBD;
+3902;PT Nona Kesehatan Perempuan;Wed;Tue;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);Consignment;
+424;PT Nutrisi Harapan Bangsa;Mon;Fri;;11;1;7;;None;CBD;
+4765;PT OILTRACORINDO;Wed;Mon;;6;1;7;;Bad Performance;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+418;PT Opto Lumbung Sejahtera;Tue;Sat;;9;1;7;;None;CBD;
+1112;PT Organika Soukya Copia;Tue;Sat;;7;1;7;;None;3 DAYS;
+578;PT Otri Technology;Mon;Tue, Fri;Wednesday, Friday;7;2;4;TRUE;None;30 DAYS;
+65;PT Pandurasa Kharisma;Mon;Fri;;9;1;7;;None;30 DAYS;
+4027;PT Panen Artha Nusa;Thu;Wed;;11;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+214;PT Panen Makmur Perkasa;Mon;Fri;;11;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5445;PT Pangan Harum Citarasa;Tue;Sat;;11;1;7;;None;21 DAYS;
+522;PT Pangan Kreasi Makmur;Mon;Fri;;9;1;7;;None;14 DAYS;
+59;PT Pangan Lestari;Tue;Wed;;9;1;7;;None;30 DAYS;
+4991;PT PANGESTU JAYA ABADI;Mon;Fri;;11;1;7;;None;14 DAYS;
+1395;PT Parama Global Inspira;Tue;Sat;;8;1;7;;None;30 Days;
+16;PT Parit Padang;Tue;Tue;;12;1;7;;None;CBD;
+1857;PT PASARNOW DISTRIBUSI DIGITAL;Mon;Fri;;12;1;7;TRUE;None;7 DAYS;
+105;PT Pasifik Prima Indah;Mon;Thu;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);14 DAYS;
+1251;PT Penta Natural Kosmetindo;Wed;Wed;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+5239;PT Percepatan Sumber Berkah;Tue;Wed;;9;1;7;;None;30 DAYS;
+590;PT Perfect Companion Indonesia;Tue;Sat;;10;1;7;TRUE;None;30 DAYS;
+5642;PT PESONA INTI RASA;Mon;Fri;;9;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5419;PT PILLAR BRITE CARE;Tue;Sat;;10;1;7;;None;14 DAYS;
+299;PT Pinus Merah Abadi;Mon;Fri;;11;1;7;;Pembayaran PO sebelumnya harus sudah settled;14 DAYS;
+5270;PT Plum Blum Internasional;Mon;Fri;;9;0.5;14;;None;CBD;
+375;PT Pos Indonesia;Mon;Fri;;9;1;7;;None;CBD;
+60;PT Prambanan Kencana;Tue;Wed;;9;1;7;;Credit limit;14 DAYS;
+346;PT Primakemas Cemerlang;Thu;Wed;;11;1;7;;None;14 DAYS;
+68;PT Primarasa Abadi Sejahtera;Wed;Wed;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+294;PT Primasari Eterna;Mon;Fri;;11;1;7;;Pembayaran PO sebelumnya harus sudah settled;CBD;
+4003;PT PURA BUMBU NATURAL;Mon;Fri;;9;1;7;;None;14 DAYS;
+4966;PT Putra Sejahtera Internasional (Consigment);Mon;Thu;;11;1;7;;Bad Performance;14 DAYS;
+457;PT Putra Sumber Abadi;Wed;Wed;;12;1;7;;Bad Performance;CBD;
+1294;PT PZ Cussons Indonesia;Tue;Mon;;7;0.5;14;;None;30 DAYS;
+417;PT Quinn Indo Global;Mon;Fri;;11;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+4414;PT RADIANT SENTRAL NUTRINDO;Mon;Fri;;11;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+322;PT Raja Niaga Nusantara;Mon;Fri;;9;1;7;;None;CBD;
+1875;PT Raksasa Bisnis Indonesia;Tue;Wed;;9;0.5;14;;None;30 DAYS;
+1076;PT Ramasurya Perkasa Distrindo;Mon;Fri;;12;1;7;;None;14 DAYS;
+5250;PT Ranaco Sukses Pratama;Mon;Fri;;11;1;7;;None;7 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+511;PT Realfood Winta Asia;Mon;Fri;;12;1;7;;None;30 DAYS;
+411;PT Rejeki Tujuh Alam;Thu;Wed;;11;1;7;;None;14 Days;
+4557;PT RICHTEXINDO INTERNATIONAL;Mon;Fri;;9;1;7;;Bad Performance;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+3838;PT RIMUINDO;Tue;Wed;;9;1;7;;None;14 DAYS;
+3896;PT Ritel Teknologi Pintar;Tue;Mon;;7;0.5;14;TRUE;None;30 DAYS;
+5635;PT ROSE COSMETICS INTERNATIONAL;Mon;Fri;;9;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+394;PT Royal Pesona Indonesia;Tue;Sat;;12;1;7;;None;CBD;
+56;PT Rubiyat Indonesia;Mon;Fri;;11;1;7;;None;COD;Monday, Tuesday, Wednesday, Thursday, Friday
+5855;PT Rumah Atsiri Indonesia;Wed;Thu;;9;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+4379;PT RUMAH BAHAGIA SEJAHTERA;Wed;Tue;;11;1;7;;None;Consignment;
+4156;PT RUSCO ONLINE DISTRIBUSI;Mon;Tue, Sat;Tuesday, Saturday;8;2;4;TRUE;None;3 DAYS;
+4285;PT SAHABAT ABADI SEJAHTERA;Tue;Sat;;12;1;7;;Bad Performance;7 DAYS;
+353;PT SAI Indonesia;Mon;Thu;;11;1;7;;None;14 DAYS;
+1964;PT Sajun Global Indonesia;Tue;Sat;;11;1;7;;None;7 DAYS;
+387;PT SAMA SAMO MEKAR;Tue;Wed;;9;1;7;;None;14 Days;
+4293;PT SANTOSA UTAMA LESTARI;Mon;Fri;;10;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+275;PT Sappe Indonesia;Wed;Wed;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+72;PT Sarana Abadi Makmur Bersama;Tue;Sat;;9;1;7;;Credit limit;30 DAYS;
+229;PT Sarana Indah Mandiri;Mon;Fri;;12;1;7;;Bad Performance;30 DAYS;
+124;PT Saras Subur Abadi;Mon;Wed;;10;1;7;TRUE;None;14 Days;
+4381;PT Sari Agrotama Persada;Mon;Fri;;11;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+4326;PT SARI BUMI MAKMUR INTERNASIONAL;Wed;Tue;;11;1;7;;None;3 DAYS;
+1528;PT Sarijaya Sukses Mandiri;Mon;Tue;;9;1;7;;None;30 DAYS;
+1042;PT Sarimunik Mandiri;Mon;Mon;;8;1;7;;None;14 DAYS;
+5600;PT Savir Kemilau Indonesia;Tue;Mon;;7;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+24;PT Sayap Utama / Wings Group;Mon;Wed, Fri;Wednesday, Friday;8;2;4;TRUE;None;14 DAYS;
+5597;PT Sea Makeup Beauty;Tue;Sat;;10;1;7;;None;14 DAYS;
+4041;PT SEBAR KEBAIKAN BERSAMA;Mon;Thu;;11;1;7;;None;14 DAYS;
+1270;PT SENFIENTA PRIMA TAMA;Mon;Fri;;10;1;7;;None;14 Days;
+5325;PT Serelia Prima Nutrisia;Tue;Mon;;7;1;7;;None;COD;
+255;PT Sesa;Mon;Fri;;9;0.25;28;;Pembayaran PO sebelumnya harus sudah settled;14 DAYS;
+312;PT Sewu Segar Nusantara;Mon;Fri;;9;1;7;;Bad Performance;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday, Saturday
+5912;PT Simba Indosnack Makmur;Mon;Fri;;11;1;7;;None;14 DAYS;
+4740;PT SINAR DISTRIBUSI NUSANTARA;Tue;Sat;;8;1;7;;None;COD;
+284;PT Sinar Kencana Agung;Mon;Fri;;11;1;7;;None;14 DAYS;
+1140;PT Sinar Mas Agro Resources And Technology Tbk;Mon;Fri;;11;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+263;PT Sinar Sosro;Mon;Fri;;11;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+1003;PT SINAR SOSRO GUNUNG SLAMAT;Mon;Fri;;11;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+324;PT Sinarmas Distribusi Nusantara (ANEKA PEMBELI);Mon;Fri;;9;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+4620;PT Sinarmas Distribusi Nusantara (PGS);Mon;Fri;;9;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+465;PT Sinergi Digital Pusaka;Tue;Wed;;9;1;7;;None;14 DAYS;
+606;PT Sinergi Multi Distrindo;Wed;Thu;;9;1;7;;Outstanding payment (discrepancies Invoice x GRN);14 DAYS;
+6062;PT SLAMET LANGGENG MAKMUR;Mon;Fri;;11;1;7;;None;CBD;
+1072;PT SMAX MAKMUR SEJAHTERA;Mon;Fri;;9;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+1384;PT Softex Indonesia;Tue;Mon;;7;1;7;TRUE;Credit limit;30 DAYS;
+1259;PT Solusi Sarana Sehat;Tue;Mon;;7;1;7;;None;14 Days;
+4725;PT SPARCLEAN CHEMICAL ASIA;Mon;Fri;;11;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+4556;PT STEIN PERKASA INTERNASIONAL;Tue;Tue;;12;1;7;;Bad Performance;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+6;PT Sukanda Djaya (Import);Tue;Mon;;7;1;7;;None;30 DAYS;
+8;PT Sukanda Djaya (Lokal/Diamond);Tue;Sat;;12;1;7;;None;14 DAYS;
+302;PT Sumber Cipta Multiniaga;Tue;Tue;;12;1;7;;Bad Performance;CBD;
+379;PT Sumber Pangan Dunia;Mon;Fri;;11;1;7;;None;CBD;
+4850;PT SURYA DONASIN TANGERANG;Tue;Sat;;12;1;7;;None;CBD;
+4742;PT SURYA MANDIRI GROUP;Tue;Sat;;8;1;7;;None;COD;
+550;PT SURYA UTAMA SENTOSA;Tue;Wed;;9;1;7;;None;COD;Monday, Tuesday, Wednesday, Thursday, Friday
+3781;PT Suryaprana Nutrisindo;Tue;Mon;;7;1;7;;None;30 DAYS;
+4685;PT TALASI TRU ORIGIN;Mon;Thu;;11;1;7;;None;14 DAYS;
+462;PT Tan Putra Tama;Tue;Wed;;9;1;7;;None;CBD;
+4821;PT TANDI JAYA PERKASA;Mon;Tue;;9;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+407;PT Tarunakusuma Purinusa;Tue;Sat;;8;1;7;;None;14 DAYS;
+508;PT TEGUH USAHA BERJAYA;Wed;Wed;;12;1;7;;None;CBD;
+1158;PT Teknologi Nutrimen Sehat;Tue;Wed;;9;1;7;;None;14 DAYS;
+4010;PT TEMAN PEREMPUAN SEHATI (Consignment);Wed;Tue;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);30 DAYS;
+477;PT TEMPO;Mon;Fri;;9;1;7;;Outstanding payment (discrepancies Invoice x GRN);14 Days;
+5809;PT The Skin Factory Global IDN;Mon;Fri;;9;1;7;;Pembayaran PO sebelumnya harus sudah settled;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+221;PT Tiga Sedulur Djaja;Mon;Wed, Fri;Wednesday, Friday;9;2;4;TRUE;None;21 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+175;PT Tigaraksa Satria;Tue;Sat;;12;1;7;TRUE;None;21 DAYS;
+4479;PT TIMUR TENGAH INDONESIA;Mon;Fri;;11;1;7;;None;7 DAYS;
+10;PT Tirta Buana Indoraya;Mon;Thu;;11;1;7;;None;14 Days;
+264;PT Tirta Investama;Mon;Tue, Thu, Sat;Tuesday, Thursday, Saturday;6;3;3;;None;14 DAYS;
+5632;PT Tirta Kumala Sari;Thu;Thu;;12;1;7;;None;30 DAYS;
+4135;PT TIRTA SURYA;Wed;Wed;;12;1;7;;None;CBD;
+348;PT Tokopedia (Inventory);Tue;Sat;;10;1;7;;None;CBD;
+5357;PT TONG GARDEN FOOD INDONESIA;Mon;Tue;;9;1;7;;None;COD;
+5893;PT TORYS CREATIA INDONESIA;Mon;Fri;;9;1;7;;None;14 DAYS;
+5910;PT TRILESTARI INDOMETIKA SEJATI;Mon;Fri;;9;1;7;;None;30 DAYS;
+4365;PT TRIMEGAH KARYA PRATAMA;Wed;Thu;;9;1;7;;None;14 DAYS;
+5001;PT Triniti Tunggal Abadi;Tue;Sat;;8;1;7;;None;14 DAYS;
+5285;PT Triorganik Indonesia Sehati;Mon;Fri;;11;1;7;;None;CBD;
+4929;PT Trueve Mitra Indonesia (Consignment);Tue;Sat;;11;1;7;;None;14 DAYS;
+1414;PT TTS Mitra Abadi;Mon;Tue;;9;1;7;;None;21 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+1967;PT Tudung Putra Putri Jaya;Wed;Thu;;9;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+80;PT Tumbakmas Niagasakti;Mon;Mon;;8;1;7;;Pembayaran PO sebelumnya harus sudah settled;14 DAYS;
+419;PT UICCP;Tue;Sat;;8;1;7;;None;14 DAYS;
+1280;PT Ultrajaya Milk Industry & Trading Company Tbk;Tue;Thu;;10;1;7;TRUE;None;26 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+3780;PT UNIKIDS INDONESIA;Wed;Tue;;11;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+574;PT Unilever Indonesia TBK;Mon;Mon, Thu;Monday, Thursday;6;2;4;TRUE;None;28 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+176;PT UNIRAMA DUTA NIAGA;Mon;Mon;;8;1;7;;None;14 DAYS;
+983;PT Unitama Sari Mas;Mon;Fri;;11;1;7;;None;30 Days;Monday, Tuesday, Wednesday, Thursday, Friday
+444;PT UNITED DICO CITAS;Wed;Thu;;9;1;7;;None;7 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+4478;PT UNITED FAMILY FOOD;Mon;Fri;;11;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+5366;PT Valencia Organika Global;Mon;Fri;;9;1;7;;None;14 DAYS;
+4939;PT VICTORIA CARE INDONESIA TBK (Consignment);Mon;Fri;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);14 DAYS;
+5058;PT VICTORIA FORTUNA MANDIRI;Tue;Sat;;9;1;7;;None;7 DAYS;
+5202;PT VITA SHOPINDO;Mon;Fri;;9;1;7;;None;CBD;
+48;PT Wahana Inti Makmur;Thu;Thu;;12;1;7;;None;CBD;
+4333;PT WAJAH REJUVENASI PEREMPUAN INDONESIA;Mon;Fri;;9;1;7;;None;30 DAYS;
+1075;PT Wicaksana Overseas International Tbk;Mon;Tue;;9;1;7;;None;14 DAYS;
+5651;PT WILLIAM PERKASA;Mon;Mon;;8;0.25;28;;None;14 DAYS;
+4619;PT WISSEUGI MAKMUR BERSAMA;Tue;Wed;;9;0.5;14;;None;3 DAYS;
+4616;PT XC CLEANINDO;Wed;Thu;;9;0.5;14;;None;30 DAYS;
+401;PT YASA MITRA PERDANA;Wed;Tue;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);CBD;
+5209;PT Yosephin Global Indonesia;Tue;Sat;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);14 DAYS;
+5422;PT Zenindo Natural;Mon;Fri;;9;1;7;;Outstanding payment (discrepancies Invoice x GRN);14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+1188;PT. Altindo Mulia;Mon;Thu;;11;1;7;;None;30 DAYS;
+4797;PT. ANAK BAHAGIA INDONESIA;Mon;Fri;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);CBD;
+5217;PT. Aneka usaha;Tue;Sat;;8;1;7;;None;30 DAYS;
+485;PT. Anugerah Filia Asia;Wed;Thu;;9;1;7;;None;COD;Monday, Tuesday, Wednesday, Thursday, Friday
+899;PT. ASTAGUNA WISESA;Tue;Sat;;11;1;7;;None;30 Days;
+5806;PT. BOSSLAB SUKSES TERUS;Mon;Fri;;9;1;7;;None;14 DAYS;
+5321;PT. DAIRYFOOD INTERNUSA;Wed;Mon;;6;1;7;;None;14 DAYS;
+5526;PT. DERAWA USAHA ADIRATNA;Tue;Sat;;11;1;7;;None;14 DAYS;
+1749;PT. Food Station Tjipinang Jaya (Perseroan Daerah);Thu;Wed;;11;1;7;;None;14 DAYS;
+526;PT. Garda Distribusi Teknologi;Tue;Thu;;10;1;7;TRUE;Bad Performance;14 DAYS;
+4108;PT. GAUTAMA INDAH PERKASA;Tue;Sat;;9;1;7;;None;30 DAYS;
+5230;PT. Global Delarya Pratama;Tue;Mon;;7;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+568;PT. Gonusa Prima Distribusi;Mon;Fri;;12;1;7;;None;14 DAYS;
+1003;PT. GUNUNG SLAMAT;Wed;Tue;;11;1;7;;None;;
+5121;PT. Hanei Living Indonesia;Tue;Sat;;7;1;7;;None;CBD;
+5228;PT. Indo Bumi Lestari;Tue;Tue;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+502;PT. JEMPOL PANGAN NUSANTARA;Tue;Sat;;10;1;7;;None;14 Days;
+31;PT. Joenoes Ikamulya (Yuri);Mon;Fri;;11;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5237;PT. KOON BROTHER INDONESIA;Mon;Fri;;9;1;7;;None;CBD;
+4893;PT. Kreasi Krispi Indonesia;Tue;Sat;;12;1;7;;Outstanding payment (discrepancies Invoice x GRN);CBD;
+4306;PT. KULINARI BOGA SEMESTA;Tue;Mon;;7;1;7;;None;14 DAYS;
+5025;PT. Lembut Kasih Ibu (Consignment);Wed;Tue;;11;0.25;28;;None;7 DAYS;
+1316;PT. Lshr jakarta;Tue;Thu;;10;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5065;PT. LUCELI PANGAN INDONESIA;Wed;Tue;;11;1;7;;None;7 DAYS;
+5247;PT. MAHKOTA LIMA MAS;Mon;Fri;;9;1;7;;None;CBD;
+5488;PT. MICA JAYA PRATAMA;Tue;Sat;;11;1;7;;None;COD;
+5878;PT. MOP INDONESIA CORP;Mon;Fri;;9;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5423;PT. Nyai Food Indonesia;Tue;Sat;;9;1;7;;None;14 DAYS;
+5906;PT. OLIVE MAJU ABADI;Mon;Fri;;11;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5485;PT. ORE INTERNATIONAL DISTRIBUTION;Tue;Sat;;11;1;7;;None;CBD;
+5637;PT. PERMATA INDO KAV;Wed;Thu;;9;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5282;PT. PURA INDONESIA NATURAL;Tue;Mon;;7;1;7;;None;14 DAYS;
+690;PT. PUTRA PERDANA SENTOSA;Wed;Tue;;11;1;7;;Bad Performance;30 DAYS;
+5891;PT. Raja Niaga Nusantara;Mon;Fri;;9;1;7;;None;3 DAYS;
+5238;PT. Ree Derma International;Mon;Fri;;11;1;7;;Outstanding payment (discrepancies Invoice x GRN);7 DAYS;
+5252;PT. Regenerative Provisions Indonesia;Mon;Fri;;9;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+928;PT. Sari Murni Abadi;Tue;Sat;;11;1;7;;None;14 DAYS;
+5207;PT. SEGAR SARI PRIMA;Mon;Thu;;11;1;7;;None;CBD;
+5296;PT. SIKLUS REFIL INDONESIA;Mon;Tue;;9;1;7;;None;30 DAYS;
+647;PT. SOOPLAI INDONESIA PRATAMA;Tue;Sat;;12;1;7;TRUE;None;CBD;
+5375;PT. SUPARMA TBK;Tue;Sat;;9;1;7;;None;14 DAYS;
+775;PT. UNIRAMA DUTA NIAGA;Mon;Fri;;8;1;7;TRUE;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5178;PT.Indoboga Utama;Mon;Fri;;11;1;7;;Pembayaran PO sebelumnya harus sudah settled;14 DAYS;
+1760;PT.Kapasindo Prima;Tue;Sat;;12;1;7;;None;30 DAYS;
+5216;PT.Tokinori kilau perkasa;Tue;Mon;;7;1;7;;None;COD;
+5151;PT.VARIA BARU MANDIRI;Mon;Fri;;11;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+5140;Racoon official;Mon;Fri;;11;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+4933;RAIHAN JAYA / RIZKIE FITRIYANTHI;Wed;Tue;;11;1;7;;Bad Performance;30 DAYS;
+5301;Rananda Printing;Mon;Fri;;9;1;7;;None;CBD;
+5914;Reptilesinc;Mon;Fri;;9;1;7;;None;14 DAYS;
+91;Sabang Merauke Trading;Wed;Tue;;11;1;7;;Pembayaran PO sebelumnya harus sudah settled;7 DAYS;
+426;Sambal Bu Rudy;Tue;Sat;;12;0.5;14;;None;14 DAYS;
+423;Sambal Parkit;Tue;Sat;;9;1;7;;None;CBD;
+177;SEMESTA DISTRIBUSI INDONESIA;Tue;Sat;;12;1;7;;None;CBD;
+4155;SENTRALSARI PRIMASENTOSA PT;Mon;Fri;;11;1;7;;None;14 DAYS;
+372;Shopee (PT Airpay International);Tue;Sat;;7;1;7;;None;CBD;
+5210;sniff sniff;Mon;Fri;;10;1;7;;None;CBD;
+5084;Sodachips;Mon;Fri;;9;0.25;28;;None;7 DAYS;
+6004;Strom Indonesia;Mon;Fri;;11;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+76;Suprama;Mon;Fri;;9;1;7;;None;14 DAYS;
+253;Tempo Scan;Tue;Sat;;8;1;7;TRUE;None;14 DAYS;
+445;TentangKita;Mon;Thu;;11;1;7;;Bad Performance;CBD;
+238;Toko Indoline;Thu;Thu;;12;1;7;;Bad Performance;CBD;
+523;Toko Naga Pangan Abadi;Mon;Thu;;11;1;7;;None;7 Days;
+415;Toko Piyokingdom;Thu;Thu;;12;1;7;;Bad Performance;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+232;Toko Timur Sejahtera;Tue;Sat;;12;1;7;;None;CBD;
+46;Topi Koki;Mon;Mon;;8;1;7;;None;21 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5840;Trubus LED;Wed;Thu;;9;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5584;UD. Boneka Niki;Mon;Fri;;10;1;7;;None;CBD;
+86;UNISNACK CITARASA ABADI;Mon;Fri;;9;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+92;Walls;Tue;Sat;;10;1;7;TRUE;Outstanding payment (discrepancies Invoice x GRN);14 DAYS;
+5141;Your Daily Granola;Mon;Tue;;9;1;7;;None;7 DAYS;
+6040;CV Beorganik International;Mon;Mon;;12;1;7;;None;14 DAYS;
+6125;CV BERKAH AL AMIN PRASETYA;Mon;Mon;;8;1;7;;None;7 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6071;CV ELIA NUTRI JAYA MAKMUR;Tue;Mon;;7;1;7;;None;;
+6113;CV ESSENLI;Tue;Tue;;12;1;7;;None;CBD;
+6163;CV KENDANGSARI SENTOSA;Mon;Mon;;12;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6248;CV MRLEE DOGS BAKERY;Tue;Mon;;7;1;7;;None;30 DAYS;
+6188;CV REI SKIN INDONESIA;Wed;Mon;;6;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+980;CV Tataruma Indonesia;Tue;Mon;;7;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6089;CV. ALAM ORGANIK MAKMUR;Tue;Mon;;7;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6003;CV. HAIRNERDS GROUP ;Tue;Mon;;7;1;7;;None;;
+6074;CV. Teo Natura Global;Tue;Mon;;7;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5917;CV. Tezzen Grooming Indonesia;Wed;Mon;;6;1;7;;None;30 DAYS;
+6192;Kafaa Prabu Snack;Tue;Sat;;11;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+282;NutrifoodÂ (Latest);Tue;Mon;;7;1;7;;None;14 DAYS;
+6115;PT ALAMI NATURAL ORGANIK;Tue;Sat;;7;1;7;;None;;
+5922;PT Amikal Berkah Niaga;Tue;Sat;;9;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6225;PT ANUGERAH ADIBOGA ABADI;Tue;Tue;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+6130;PT ANUGERAH MULIA INDOBEL;Tue;Mon;;7;1;7;;None;30 DAYS;
+6079;PT CIELCO IVIN ANUGERAH PERKASA;Tue;Mon;;7;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5978;PT Citra Pasifik Kosmetik;Tue;Sat;;7;1;7;;None;14 DAYS;
+6086;PT COU COU INDONESIA;Tue;Sat;;7;1;7;;None;30 DAYS;
+6051;PT Dalea Nusantara Mandiri;Tue;Sat;;9;1;7;;None;30 DAYS;
+6036;PT DRSOAP GLOBAL INDONESIA;Tue;Sat;;9;1;7;;None;30 DAYS;
+6000;PT Fajar Prima Sentosa;Tue;Sat;;11;1;7;;None;30 DAYS;
+5896;PT Harapan Maju Indah;Tue;Sat;;11;1;7;;None;30 DAYS;
+6081;PT HOLINDO LEZATPRATAMA;Tue;Sat;;11;1;7;;None;30 DAYS;
+157;PT Mas Asih (Sidomuncul);Tue;Sat;;11;1;7;;None;CBD;
+6203;PT Masaya Health Food;Tue;Tue;;12;1;7;;None;CBD;Monday, Tuesday, Wednesday, Thursday, Friday
+252;PT Meyo sky indonesia;Mon;Mon;;8;1;7;;None;7 DAYS;
+6052;PT Mitra Mas Sentosa;Tue;Sat;;10;1;7;;None;30 DAYS;
+6114;PT MITRA SUKSES BERSAMA DISTRIBUSINDO;Wed;Mon;;6;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6209;PT Monarch Multi Industri;Tue;Sat;;12;1;7;;None;30 DAYS;
+5646;PT Multi Citra Rasa;Tue;Sat;;9;1;7;;None;14 DAYS;
+1079;PT Natura Deca Sejahtera;Tue;Sat;;11;1;7;;None;CBD;
+6201;PT Nuansa Pedas Makmur;Tue;Thu;;6;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6032;PT Nutrikid Organik Indonesia;Wed;Thu;;5;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6183;PT PUF SAINS LAB;Mon;Thu;;7;1;7;;None;26 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6172;PT PUNYA ANAK BAHAGIA;Mon;Thu;;7;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6075;PT Riza Kreasi Naturalindo;Tue;Sat;;7;1;7;;None;30 DAYS;
+6162;PT ROYAL MITRA PRATAMA;Tue;Mon;;7;1;7;;None;7 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6127;PT RUSINDO EKA RAYA;Tue;Mon;;7;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6035;PT Solomon Indo Global;Tue;Sat;;7;1;7;;None;30 DAYS;
+6175;PT SPARINDO FOOD;Mon;Thu;;7;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6083;PT Sumber Laris Internasional;Thu;Tue;;6;1;7;;None;30 DAYS;
+6039;PT Sunrica Mutiara;Tue;Sat;;9;1;7;;None;15 DAYS;
+6037;PT Tak Terhingga Sepanjang Masa;Tue;Sat;;7;1;7;;None;30 DAYS;
+5949;PT Tara Parama Semesta;Tue;Sat;;9;1;7;;None;30 DAYS;
+6087;PT Tiga Lab Anugrah;Wed;Tue;;7;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+69;PT Ulam Tiba Halim;Thu;Mon;;9;1;7;;None;CBD;
+6033;PT. Albacar Nusantara Sejahtera;Tue;Sat;;11;1;7;;None;30 DAYS;
+6233;PT. Daya Mulia Sejahtera;Tue;Sat;;11;1;7;;None;30 DAYS;
+6230;PT. Garis Akusara Cemerlang;Tue;Sat;;9;1;7;;None;30 DAYS;
+5980;PT. GUMBO GEMBIRA USAHA;Tue;Sat;;11;1;7;;None;30 DAYS;
+6094;PT. HANYA HEWAN PELIHARAAN;Tue;Sat;;8;1;7;;None;30 DAYS;
+6222;PT. Ina Nata Boga;Thu;Tue;;6;1;7;;None;30 DAYS;
+5916;PT. Kawan Menengah Atas;Tue;Mon;;7;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6060;PT. Kenson Multibrand Globalindo;Wed;Thu;;9;1;7;;None;30 DAYS;
+6159;PT. Kors Beautipedia Permata;Mon;Thu;;11;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6232;PT. Kreasindo Laksana Tirta;Tue;Wed;;5;1;7;;None;14 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6073;PT. LOVES SEMPRONG INDONESIA ;Tue;Mon;;7;1;7;;None;;
+6076;PT. MAG NIAGA INDONESIA;Tue;Sat;;7;1;7;;None;14 DAYS;
+6208;PT. MITRA KREASI NATURAL;Tue;Sat;;11;1;7;;None;30 DAYS;
+5911;PT. Modiva International;Tue;Sat;;7;1;7;;None;30 DAYS;
+6153;PT. NRI Global Mandiri;Tue;Sat;;9;1;7;;None;30 DAYS;
+5906;PT. OLIVE MAJU ABADI ;Tue;Mon;;7;1;7;;None;;
+6177;PT. PARVIS MAGNA JAYA;Wed;Tue;;7;1;7;;None;30 DAYS;
+6206;PT. Sumed Jaya Abadi;Mon;Thu;;7;1;7;;None;7 DAYS;
+6166;PT. Tumbuh Jawara Natural;Tue;Mon;;7;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+5883;PT. Usaha Cemerlang Esensial;Tue;Mon;;7;1;7;;None;;
+6126;PT. Varia Niaga Sukses;Tue;Mon;;7;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6054;Sehat Station;Tue;Mon;;7;1;7;;None;30 DAYS;Monday, Tuesday, Wednesday, Thursday, Friday
+6004;Strom Indonesia ;Tue;Mon;;7;1;7;;None;;
+473;Toko JKT Umbrella;Thu;Mon;;9;1;7;;None;CBD;
