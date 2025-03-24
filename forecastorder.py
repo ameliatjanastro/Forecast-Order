@@ -7,8 +7,7 @@ import calendar
 st.title('RL Qty Calculator')
 
 # Load Vendor Details from GitHub
-vendor_url = 'https://raw.githubusercontent.com/yourrepo/vendor_details.csv'
-vendor_df = pd.read_csv(vendor_url)
+vendor_df = pd.read_csv('Vendor Details for Forecast Order.csv')
 
 # Translate day names to dates
 def get_next_weekday(day_name):
