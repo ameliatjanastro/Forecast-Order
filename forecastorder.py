@@ -19,9 +19,9 @@ def get_next_weekday(day_name):
 
 # Calculate order, inbound, and coverage days based on vendor schedule
 def calculate_dates(row):
-    order_date = get_next_weekday(row['order_day'])
-    inbound_date = order_date + timedelta(days=row['Jarak Inbound'])
-    next_inbound_date = inbound_date + timedelta(days=row['Jarak Inbound'])
+    order_date = get_next_weekday(row['Ideal RL submission'])
+    inbound_date = order_date + timedelta(days=row['JI'])
+    next_inbound_date = inbound_date + timedelta(days=row['JI'])
     coverage_days = next_inbound_date - order_date
     return pd.Series([order_date, inbound_date, next_inbound_date, coverage_days])
 
@@ -45,7 +45,7 @@ if st.button('Calculate RL Qty'):
         merged_df = merged_df.merge(vendor_df, on='product_id', how='left')
 
         # Calculate current stock as reference SOH + OSPO + OSPR + OSRL
-        merged_df['current_stock'] = merged_df['reference_stock'] + merged_df['ospo_qty'] + merged_df['ospr_qty'] + merged_df['osrl_qty']
+        merged_df['current_stock'] = merged_df['stock_wh'] + merged_df['ospo_qty'] + merged_df['ospr_qty'] + merged_df['osrl_qty']
 
         # Loop through 4 cycles based on forecast sales dates
         results = []
