@@ -10,7 +10,8 @@ st.title('RL Qty Calculator')
 vendor_details = st.file_uploader('Upload Vendor Details (CSV)', type='csv')
 if vendor_details is not None:
     vendor_df = pd.read_csv(vendor_details, on_bad_lines="skip")
-    
+    vendor_df.columns = vendor_df.columns.str.strip()
+
 # Translate day names to dates
 def get_next_weekday(day_name):
     today = datetime(2025, 4, 7)()
