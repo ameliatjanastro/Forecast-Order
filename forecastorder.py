@@ -13,10 +13,14 @@ if vendor_details is not None:
     vendor_df.columns = vendor_df.columns.str.strip()
 
 # Translate day names to dates
-def get_next_weekday(day_name):
-    today = datetime(2025, 4, 7)()
-    days_ahead = (list(calendar.day_name).index(day_name) - today.weekday() + 7) % 7
-    return today + timedelta(days=days_ahead + 7)
+def get_next_weekday(weekday_str):
+    weekdays = ["Mon", "Tue", "Wed", "Thu", "Fri", "Sat", "Sun"]
+    today = datetime.date.today()
+    target_weekday = weekdays.index(weekday_str[:3])  # Match first 3 letters
+    days_ahead = (target_weekday - today.weekday() + 7) % 7
+    return today + datetime.timedelta(days=days_ahead)
+
+vendor_df['Ideal RL submission'] = vendor_df['Ideal RL submission'].apply(get_next_weekday)
 
 # Calculate order, inbound, and coverage days based on vendor schedule
 def calculate_dates(row):
